@@ -1,0 +1,4 @@
+github.com/patapancakes/sslspoof v0.0.0-20261003221838-31425aa422d1 h1:QfWyxkczsJV7/6ENw8K5cmdHq5riM2r/vRAwsFbybyg=
+github.com/patapancakes/sslspoof v0.0.0-20261003221838-31425aa422d1/go.mod h1:iGFFiohGP4dOCrGbLVLVK5CBX5TJAWX/0YG0l8zvLvM=
+golang.org/x/sync v0.23.0 h1:KameEIfc1IkluZyXWLn39Wd4tURc6GbCiISGiZm2bQk=
+golang.org/x/sync v0.23.0/go.mod h1:sUUOizhqBxiL6pEWpqNLUiaJn1ShEbZ6BBqskPbjZm0=
